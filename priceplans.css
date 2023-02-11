@@ -1,0 +1,3097 @@
+.priceplans-container {
+  min-height: 100vh;
+}
+.priceplans-priceplans {
+  width: 970px;
+  height: 793px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  margin-left: 25%;
+  margin-top: -3%;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text {
+  left: 388px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-text02 {
+  top: 65px;
+  left: 234px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 438px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+
+  text-align: center;
+  line-height: 24px;
+}
+.priceplans-gold {
+  top: 183px;
+  left: 331px;
+  width: 310px;
+  height: 610px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-rectangle59 {
+  top: 1px;
+  left: 0px;
+  width: 310px;
+  height: 609px;
+  position: absolute;
+  border-color: transparent;
+}
+.priceplans-most-popular {
+  top: 0px;
+  left: 0px;
+  width: 310px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 180, 0, 1);
+}
+.priceplans-text04 {
+  top: 3px;
+  left: 108px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-text06 {
+  top: 55px;
+  left: 127px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-price-hour {
+  top: 104px;
+  left: 70px;
+  width: 166px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text08 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-text10 {
+  top: 15px;
+  left: 126px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-text12 {
+  top: 152px;
+  left: 31px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.priceplans-service {
+  top: 221px;
+  left: 33px;
+  width: 244px;
+  height: 305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-u-i-design {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text17 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check02 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check04 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check05 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line8 {
+  top: 32px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-webdevelopment {
+  top: 40px;
+  left: 0px;
+  width: 170px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text19 {
+  top: 1px;
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check06 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check08 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check10 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check11 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line9 {
+  top: 72px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-word-pressintegration {
+  top: 160px;
+  left: 0px;
+  width: 198px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text21 {
+  left: 39px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close02 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close04 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close05 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close06 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line12 {
+  top: 192px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-frame5websites {
+  top: 200px;
+  left: 0px;
+  width: 119px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text23 {
+  left: 39px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close08 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close11 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close12 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close13 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close14 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line13 {
+  top: 232px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-unlimiteduser {
+  top: 240px;
+  left: 0px;
+  width: 144px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text25 {
+  left: 39px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close16 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close18 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close19 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close20 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close21 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close22 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close23 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line14 {
+  top: 272px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-frame20g-bbandwith {
+  top: 280px;
+  left: 0px;
+  width: 157px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text27 {
+  top: 1px;
+  left: 42px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close24 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close25 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close26 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close27 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close28 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close29 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close30 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close31 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close32 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close33 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line10 {
+  top: 112px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-logo-design {
+  top: 80px;
+  left: 0px;
+  width: 128px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text29 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check12 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check14 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check16 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line11 {
+  top: 152px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-seooptimization {
+  top: 120px;
+  left: 0px;
+  width: 160px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text31 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check18 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check19 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check20 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check21 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-order-now {
+  top: 547px;
+  left: 70px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-order-now1 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-order-now2 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-rectangle56 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.priceplans-text33 {
+  top: 11px;
+  left: 41px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.priceplans-silver {
+  top: 184px;
+  left: 0px;
+  width: 310px;
+  height: 609px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.priceplans-text35 {
+  top: 54px;
+  left: 122px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-price {
+  top: 103px;
+  left: 82px;
+  width: 145px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text37 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-text39 {
+  top: 15px;
+  left: 105px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-text41 {
+  top: 151px;
+  left: 31px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.priceplans-service1 {
+  top: 220px;
+  left: 33px;
+  width: 253px;
+  height: 305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-u-i-design1 {
+  top: 0px;
+  left: 0px;
+  width: 114px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text46 {
+  left: 40px;
+  color: var(--dl-color-default-black);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check22 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check23 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check24 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check25 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check26 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line81 {
+  top: 32px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-webdevelopment1 {
+  top: 40px;
+  left: 0px;
+  width: 180px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text48 {
+  top: 1px;
+  left: 40px;
+  color: var(--dl-color-default-black);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check27 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check28 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check29 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check30 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check31 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line91 {
+  top: 72px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-logodesign1 {
+  top: 80px;
+  left: 0px;
+  width: 136px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text50 {
+  left: 40px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close34 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close35 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close36 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close37 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close38 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line101 {
+  top: 112px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-seooptimization1 {
+  top: 120px;
+  left: 0px;
+  width: 171px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text52 {
+  left: 40px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close39 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close40 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close41 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close42 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close43 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line111 {
+  top: 152px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-word-pressintegration1 {
+  top: 160px;
+  left: 0px;
+  width: 210px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text54 {
+  left: 40px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close44 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close45 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close46 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close47 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close48 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close49 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line121 {
+  top: 192px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-frame5websites1 {
+  top: 200px;
+  left: 0px;
+  width: 125px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text56 {
+  left: 40px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close50 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close51 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close52 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close53 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close54 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close55 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close56 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line131 {
+  top: 232px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-unlimiteduser1 {
+  top: 240px;
+  left: 0px;
+  width: 153px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text58 {
+  left: 40px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close57 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close58 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close59 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close60 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close61 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close62 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close63 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close64 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line141 {
+  top: 272px;
+  left: 0px;
+  width: 253px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-frame20g-bbandwith1 {
+  top: 280px;
+  left: 0px;
+  width: 167px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text60 {
+  top: 1px;
+  left: 44px;
+  color: var(--dl-color-default-paragraphfont);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-close65 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close66 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close67 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close68 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close69 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close70 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close71 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close72 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-close73 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-button-ordernow {
+  top: 546px;
+  left: 70px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-button-ordernow1 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-button-ordernow2 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-button-ordernow3 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-button-ordernow4 {
+  top: 90.7%;
+  left: 45px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-rectangle55 {
+  margin-top: -4%;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.priceplans-text62 {
+  top: 11%;
+  left: 41px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.priceplans-dimond {
+  top: 184px;
+  left: 662px;
+  width: 308px;
+  height: 609px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.priceplans-text64 {
+  top: 54px;
+  left: 109px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-price-hour1 {
+  top: 103px;
+  left: 71px;
+  width: 166px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text66 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 123.59999418258667%;
+}
+.priceplans-text68 {
+  top: 15px;
+  left: 126px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-text70 {
+  top: 151px;
+  left: 30px;
+  color: var(--dl-color-default-paragraphfont);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.priceplans-service2 {
+  top: 220px;
+  left: 32px;
+  width: 244px;
+  height: 305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-u-i-design2 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text75 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check32 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check33 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check34 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check35 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check36 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line82 {
+  top: 32px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-webdevelopment2 {
+  top: 40px;
+  left: 0px;
+  width: 170px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text77 {
+  top: 1px;
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check37 {
+  top: 0px;
+  left: 0px;
+  width: 24.88524627685547px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check38 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check39 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check40 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check41 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line92 {
+  top: 72px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-logodesign2 {
+  top: 80px;
+  left: 0px;
+  width: 128px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text79 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check42 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check43 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check44 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check45 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check46 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line102 {
+  top: 112px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-seooptimization2 {
+  top: 120px;
+  left: 0px;
+  width: 160px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text81 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check47 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check48 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check49 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check50 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check51 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line112 {
+  top: 152px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-word-pressintegration2 {
+  top: 200px;
+  left: 0px;
+  width: 119px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text83 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check52 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check53 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check54 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check55 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check56 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line132 {
+  top: 232px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-word-pressintegration3 {
+  top: 240px;
+  left: 0px;
+  width: 144px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text85 {
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check57 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check58 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check59 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check60 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check61 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-line142 {
+  top: 272px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-line122 {
+  top: 192px;
+  left: 0px;
+  width: 244px;
+  height: 0px;
+  position: absolute;
+}
+.priceplans-text87 {
+  top: 160px;
+  left: 39px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-word-pressintegration4 {
+  top: 159px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-icons-check62 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check63 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check64 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check65 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check66 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-frame20g-bbandwith2 {
+  top: 280px;
+  left: 0px;
+  width: 157px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.priceplans-text89 {
+  top: 1px;
+  left: 42px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.priceplans-icons-check67 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check68 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check69 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check70 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-icons-check71 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.priceplans-order-now3 {
+  top: 546px;
+  left: 70px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-order-now4 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-order-now5 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-order-now6 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.priceplans-rectangle57 {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.priceplans-text91 {
+  top: 11px;
+  left: 41px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+  .priceplans-text {
+    left: -0px;
+    top: 20%;
+  }
+
+  .priceplans-silver {
+    top: 320px;
+    left: -62px;
+  }
+
+  .priceplans-gold {
+    top: 989px;
+    left: -62px;
+  }
+
+  .priceplans-dimond {
+    top: 1609px;
+    left: -62px;
+  }
+
+  .priceplans-text02 {
+    top: 225px;
+    left: -220px;
+    padding-left: 20%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .priceplans-priceplans {
+    width: 970px;
+    height: 793px;
+    top: 509px;
+    display: flex;
+    padding: 0;
+    position: relative;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    margin-left: 25%;
+    margin-top: -3%;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+
+  .priceplans-text {
+    left: -81px;
+    color: var(--dl-color-default-black);
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 123.59999418258667%;
+  }
+
+  .priceplans-text02 {
+    top: 65px;
+    left: -213px;
+    color: var(--dl-color-default-paragraphfont);
+    width: 438px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 24px;
+  }
+
+  .priceplans-silver {
+    top: 184px;
+    left: -152px;
+    width: 310px;
+    height: 609px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(255, 255, 255, 1);
+  }
+
+  .priceplans-gold {
+    top: 899px;
+    left: -154px;
+    width: 310px;
+    height: 610px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+
+  .priceplans-dimond {
+    top: 1575px;
+    left: -158px;
+    width: 308px;
+    height: 609px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(255, 255, 255, 1);
+  }
+}

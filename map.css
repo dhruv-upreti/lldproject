@@ -1,0 +1,28 @@
+.map-container {
+  min-height: 100vh;
+}
+.map-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.map-map {
+  width: 920px;
+  height: 300px;
+  position: relative;
+  margin-left: 26%;
+  margin-top: 4%;
+  border-color: transparent;
+}
+
+@media screen and (max-width: 480px) {
+  .map-map {
+    width: 0px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .map-map {
+    width: 0px;
+    height: 0px;
+  }
+}

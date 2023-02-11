@@ -1,0 +1,17 @@
+.portfolio-container {
+  min-height: 100vh;
+}
+.portfolio-dummy-container {
+  width: 100%;
+  height: 900px;
+  margin-top: 110%;
+}
+.portfolio-text {
+  color: var(--dl-color-default-black);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+
+  line-height: 123.59999418258667%;
+  margin-left: 50%;
+}
