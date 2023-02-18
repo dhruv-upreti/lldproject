@@ -386,12 +386,12 @@
 @media screen and (max-width: 480px) {
   .contactinformation-contactinformation {
     width: 370px;
-    top: 27px;
+    top: 324px;
     left: -242px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .leaveusyourinfo-leaveusyourinfo {
     width: 570px;
     height: 755px;
@@ -441,3 +441,4 @@
     background-color: transparent;
   }
 }
+ */

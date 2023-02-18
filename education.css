@@ -360,6 +360,29 @@
 }
 
 @media screen and (max-width: 480px) {
+  .education-education {
+    width: 970px;
+    height: 815px;
+    display: flex;
+    padding: 0px;
+    margin-left: 23%;
+    top: 173px;
+    position: relative;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    margin-right: 0px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+
   .education-education-detils {
     top: 822px;
     left: 0px;
@@ -455,7 +478,7 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .education-education {
     width: 970px;
     height: 815px;
@@ -696,3 +719,4 @@
     line-height: 24px;
   }
 }
+ */

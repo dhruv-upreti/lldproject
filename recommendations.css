@@ -1036,7 +1036,7 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .recommendations-recommendations {
     width: 970px;
     height: 566px;
@@ -1144,3 +1144,4 @@
     background-color: rgba(255, 255, 255, 1);
   }
 }
+ */

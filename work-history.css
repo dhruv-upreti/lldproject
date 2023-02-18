@@ -367,7 +367,7 @@
   .work-history-work-history {
     width: 970px;
     height: 815px;
-    top: 752px;
+    top: 996px;
   }
 
   .work-history-text02 {
@@ -621,7 +621,7 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .work-history-work-history {
     width: 970px;
     height: 815px;
@@ -906,3 +906,4 @@
     line-height: 24px;
   }
 }
+ */
