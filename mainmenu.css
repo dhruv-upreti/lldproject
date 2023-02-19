@@ -294,7 +294,7 @@
   }
 }
 
-/* @media screen and (max-width: 1024px) {
+@media screen and (width: 1024px) {
   .mainmenu-text {
     top: -478px;
     left: -208px;
@@ -359,4 +359,3 @@
     border-color: transparent;
   }
 }
- */
